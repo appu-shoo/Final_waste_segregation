@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EcoSort AI: Smart Waste Segregation System",
+  "description": "An automated waste management simulation using Gemini Computer Vision to identify, classify, and sort recyclables on a virtual conveyor belt.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
